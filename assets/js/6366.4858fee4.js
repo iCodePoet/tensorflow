@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktensorflow_docs=globalThis.webpackChunktensorflow_docs||[]).push([[6366],{6366(e,s,c){c.d(s,{createArchitectureServices:()=>o.S});var o=c(8980);c(7960)}}]);

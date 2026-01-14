@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktensorflow_docs=globalThis.webpackChunktensorflow_docs||[]).push([[9647],{8122(s,e,r){r.r(e),r.d(e,{default:()=>u});r(6540);var o=r(4164),a=r(204),c=r(1769),l=r(2831),n=r(9847),t=r(4848);function u(s){return(0,t.jsx)(c.e3,{className:(0,o.A)(a.G.wrapper.docsPages),children:(0,t.jsx)(n.A,{children:(0,l.v)(s.route.routes)})})}}}]);
