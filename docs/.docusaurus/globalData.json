@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/tensorflow/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tensorflow/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api/python-api",
+              "path": "/tensorflow/docs/api/python-api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/overview",
+              "path": "/tensorflow/docs/architecture/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "code-walkthrough/reading-order",
+              "path": "/tensorflow/docs/code-walkthrough/reading-order",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/glossary",
+              "path": "/tensorflow/docs/concepts/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/math-foundations",
+              "path": "/tensorflow/docs/concepts/math-foundations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "config/environment",
+              "path": "/tensorflow/docs/config/environment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/tensorflow/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/getting-started",
+              "path": "/tensorflow/docs/usage/getting-started",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/tensorflow/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

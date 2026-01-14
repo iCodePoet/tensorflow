@@ -1,0 +1,18 @@
+export default {
+  "00b31570": [() => import(/* webpackChunkName: "00b31570" */ "@generated/docusaurus-plugin-content-docs/default/p/tensorflow-docs-acc.json"), "@generated/docusaurus-plugin-content-docs/default/p/tensorflow-docs-acc.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/tensorflow-docs-acc.json")],
+  "06aa0860": [() => import(/* webpackChunkName: "06aa0860" */ "@site/docs/code-walkthrough/reading-order.md"), "@site/docs/code-walkthrough/reading-order.md", require.resolveWeak("@site/docs/code-walkthrough/reading-order.md")],
+  "0b1ac180": [() => import(/* webpackChunkName: "0b1ac180" */ "@site/docs/architecture/overview.md"), "@site/docs/architecture/overview.md", require.resolveWeak("@site/docs/architecture/overview.md")],
+  "0e384e19": [() => import(/* webpackChunkName: "0e384e19" */ "@site/docs/intro.md"), "@site/docs/intro.md", require.resolveWeak("@site/docs/intro.md")],
+  "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  "1dc61d67": [() => import(/* webpackChunkName: "1dc61d67" */ "@site/docs/usage/getting-started.md"), "@site/docs/usage/getting-started.md", require.resolveWeak("@site/docs/usage/getting-started.md")],
+  "1df93b7f": [() => import(/* webpackChunkName: "1df93b7f" */ "@site/src/pages/index.tsx"), "@site/src/pages/index.tsx", require.resolveWeak("@site/src/pages/index.tsx")],
+  "50139838": [() => import(/* webpackChunkName: "50139838" */ "@site/docs/api/python-api.md"), "@site/docs/api/python-api.md", require.resolveWeak("@site/docs/api/python-api.md")],
+  "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
+  "5e9f5e1a": [() => import(/* webpackChunkName: "5e9f5e1a" */ "@generated/docusaurus.config"), "@generated/docusaurus.config", require.resolveWeak("@generated/docusaurus.config")],
+  "5ee7b1bc": [() => import(/* webpackChunkName: "5ee7b1bc" */ "@site/docs/concepts/glossary.md"), "@site/docs/concepts/glossary.md", require.resolveWeak("@site/docs/concepts/glossary.md")],
+  "a7456010": [() => import(/* webpackChunkName: "a7456010" */ "@generated/docusaurus-plugin-content-pages/default/__plugin.json"), "@generated/docusaurus-plugin-content-pages/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-pages/default/__plugin.json")],
+  "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
+  "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],
+  "aba21aa0": [() => import(/* webpackChunkName: "aba21aa0" */ "@generated/docusaurus-plugin-content-docs/default/__plugin.json"), "@generated/docusaurus-plugin-content-docs/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/__plugin.json")],
+  "d012324d": [() => import(/* webpackChunkName: "d012324d" */ "@site/docs/config/environment.md"), "@site/docs/config/environment.md", require.resolveWeak("@site/docs/config/environment.md")],
+  "efae5a6b": [() => import(/* webpackChunkName: "efae5a6b" */ "@site/docs/concepts/math-foundations.md"), "@site/docs/concepts/math-foundations.md", require.resolveWeak("@site/docs/concepts/math-foundations.md")],};

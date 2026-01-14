@@ -1,0 +1,26 @@
+{
+  "id": "architecture/overview",
+  "title": "아키텍처 개요",
+  "description": "TensorFlow의 내부 구조를 이해하면 더 효율적인 코드를 작성할 수 있습니다. 이 문서에서는 TensorFlow가 어떻게 동작하는지 깊이 있게 살펴봅니다.",
+  "source": "@site/docs/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/overview",
+  "permalink": "/tensorflow/docs/architecture/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "수학적 기초",
+    "permalink": "/tensorflow/docs/concepts/math-foundations"
+  },
+  "next": {
+    "title": "Python API 레퍼런스",
+    "permalink": "/tensorflow/docs/api/python-api"
+  }
+}

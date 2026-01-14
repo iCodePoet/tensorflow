@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "TensorFlow 학습 가이드",
+  "description": "TensorFlow는 Google이 개발한 오픈소스 머신러닝 플랫폼입니다. 이 문서는 TensorFlow의 핵심 개념부터 내부 아키텍처까지 깊이 있게 이해할 수 있도록 설계되었습니다.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/tensorflow/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/intro"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "핵심 개념 용어집",
+    "permalink": "/tensorflow/docs/concepts/glossary"
+  }
+}

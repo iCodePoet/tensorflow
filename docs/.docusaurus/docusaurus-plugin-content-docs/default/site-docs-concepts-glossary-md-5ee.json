@@ -1,0 +1,26 @@
+{
+  "id": "concepts/glossary",
+  "title": "핵심 개념 용어집",
+  "description": "TensorFlow를 이해하기 위한 핵심 용어들을 정리했습니다. 각 개념은 정의, 비유, 예시 코드로 설명됩니다.",
+  "source": "@site/docs/concepts/glossary.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/glossary",
+  "permalink": "/tensorflow/docs/concepts/glossary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TensorFlow 학습 가이드",
+    "permalink": "/tensorflow/docs/intro"
+  },
+  "next": {
+    "title": "수학적 기초",
+    "permalink": "/tensorflow/docs/concepts/math-foundations"
+  }
+}
